@@ -19,4 +19,4 @@ The biggest problem I have right now is that there is no one to check my work, a
 **Schematic**
 <img width="977" height="845" alt="2025-11-27-185147_977x845_scrot" src="https://github.com/user-attachments/assets/69aff9b8-e087-4f6f-b6bd-4ed08399f714" />
 
-### Hours spent: 5.0h
+### Hours spent: 4.0h
