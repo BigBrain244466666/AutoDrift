@@ -1,8 +1,10 @@
 # AutoDrift Journal
 
+## Total Hours: 10.0h
+
 ## Journal entry 1: Making the Schematic - Part 1
 
-Making a custom dev board is so tedious! For every component, you have to read and understand the datasheet for it so you know how to wire everything. It's not connecting some pins to get it to work anymore. I chose some basic components for the flight controller, and started wiring the power module.
+Making a custom dev board is so tedious! For every component, you have to read and understand the datasheet for it so you know how to wire everything. It's not connecting some pins to get it to work anymore. I chose some basic components for the flight controller and started wiring the power module.
 
 Parts I chose (So far):
 - MCU: STM32F765IIT6
@@ -20,6 +22,7 @@ The biggest problem I have right now is that there is no one to check my work, a
 <img width="977" height="845" alt="2025-11-27-185147_977x845_scrot" src="https://github.com/user-attachments/assets/69aff9b8-e087-4f6f-b6bd-4ed08399f714" />
 
 ### Hours spent: 4.0h
+
 
 ## Journal entry 2: Making the Schematic - Part 2
 
