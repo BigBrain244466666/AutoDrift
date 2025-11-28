@@ -7,7 +7,6 @@
 - Input Voltage: 25.2V (S6)
 - Output Voltage: 5.0V
 - Load Current: 1.5A
-- Switching Frequency: 500kHz
-- Inductor: 10µH
-- Output Capacitance: 120µF
-- ESR of Output Capacitance: 2mΩ
+
+### LT3065HMSEPBF
+- Datasheet: https://www.analog.com/media/en/technical-documentation/data-sheets/lt3065.pdf
