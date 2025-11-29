@@ -1,6 +1,6 @@
 # AutoDrift Journal
 
-## Total Hours: 10.0h
+## Total Hours: 16.0h
 
 ## Journal entry 1: Making the Schematic - Part 1
 
@@ -30,5 +30,14 @@ Who knows, datasheets do what they are supposed to: tell you about the component
 
 **Schematic**
 <img width="954" height="837" alt="2025-11-28-151457_954x837_scrot" src="https://github.com/user-attachments/assets/de025f3e-b601-4d7e-87a5-95ee4ae4642a" />
+
+### Hours spent: 6.0h
+
+## Journal entry 3: Making the Schematic - Part 3
+
+Lots of changes! First, I finished the first draft of my schematic. It was my first time making such a complex schematic; it was very messy, and things weren't properly labelled. I then asked around on Slack and got lots of feedback. One of the biggest points was that my schematic was extremely disorganized, and they encouraged me to use hierarchical formatting for my schematic. I watched a few YouTube videos and started implementing the changes. After these changes are made, I will make a more detailed journal entry about finishing the schematic and the entire process.
+
+**Old schematic**
+<img width="4960" height="3507" alt="image" src="https://github.com/user-attachments/assets/0d05c451-b3ba-4902-8a76-99fe48d3d11b" />
 
 ### Hours spent: 6.0h
