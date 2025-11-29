@@ -28,3 +28,12 @@
 - Datasheet: https://www.mouser.com/datasheet/2/949/w25q128jv_revf_03272018_plus-1489608.pdf?srsltid=AfmBOornYkTMMsAVSHxR0i2eqxDZfQAxkBZmDvqaMnvvL8uSAeoDFGVR
 - Input Voltage 3.3V
 - Connection Type SPI3
+
+### ESP32-WROOM-32E
+- Datasheet: https://cdn.sparkfun.com/assets/4/3/1/7/6/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en_v1-6.pdf
+- Input Voltage: 3.3V
+- Connection Type: UART
+
+### STM32F756IIT6
+- Datasheet: https://www.st.com/resource/en/datasheet/stm32f765ii.pdf
+- Input Voltage: 3.3V
